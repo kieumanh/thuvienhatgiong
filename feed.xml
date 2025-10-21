@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Nguồn tư liệu</title>
+    <title>Thư viện hạt giống</title>
     <link href="https://kieumanh.github.io/thuvienhatgiong/feed.xml" rel="self" />
     <link href="https://kieumanh.github.io/thuvienhatgiong" />
     <updated>2025-10-22T04:16:54+07:00</updated>
@@ -14,8 +14,8 @@
         <author>
             <name>Mạnh</name>
         </author>
-        <link href="https://kieumanh.github.io/thuvienhatgiong/co-che-tac-dong-cua-nam-thuc-than-len-nao-bo-tuong-dong-hay-khac-biet-voi-thien-dinh-nhu-the-nao.html"/>
-        <id>https://kieumanh.github.io/thuvienhatgiong/co-che-tac-dong-cua-nam-thuc-than-len-nao-bo-tuong-dong-hay-khac-biet-voi-thien-dinh-nhu-the-nao.html</id>
+        <link href="https://kieumanh.github.io/thuvienhatgiong/co-che-tac-dong-cua-nam-thuc-than-len-nao-bo-tuong-dong-hay-khac-biet-voi-thien-dinh-nhu-the-nao/"/>
+        <id>https://kieumanh.github.io/thuvienhatgiong/co-che-tac-dong-cua-nam-thuc-than-len-nao-bo-tuong-dong-hay-khac-biet-voi-thien-dinh-nhu-the-nao/</id>
         <media:content url="https://kieumanh.github.io/thuvienhatgiong/media/posts/3/nam.jpg" medium="image" />
             <category term="Nấm Psilocybe"/>
 
@@ -129,8 +129,8 @@
         <author>
             <name>Mạnh</name>
         </author>
-        <link href="https://kieumanh.github.io/thuvienhatgiong/cuoc-song-nay-co-phai-la-1-tro-choi-cua-su-ton-tai-tat-ca-cac-phuong-phap-tu-hanh-chi-nham-thuc-tinh-tam-linh-nhan-ra-tro-choi-vo-cung-cua-cuoc-song-nay-u-nghia-that-su-dang-sau-tro-choi-su-song-nay-la-gi.html"/>
-        <id>https://kieumanh.github.io/thuvienhatgiong/cuoc-song-nay-co-phai-la-1-tro-choi-cua-su-ton-tai-tat-ca-cac-phuong-phap-tu-hanh-chi-nham-thuc-tinh-tam-linh-nhan-ra-tro-choi-vo-cung-cua-cuoc-song-nay-u-nghia-that-su-dang-sau-tro-choi-su-song-nay-la-gi.html</id>
+        <link href="https://kieumanh.github.io/thuvienhatgiong/cuoc-song-nay-co-phai-la-1-tro-choi-cua-su-ton-tai-tat-ca-cac-phuong-phap-tu-hanh-chi-nham-thuc-tinh-tam-linh-nhan-ra-tro-choi-vo-cung-cua-cuoc-song-nay-u-nghia-that-su-dang-sau-tro-choi-su-song-nay-la-gi/"/>
+        <id>https://kieumanh.github.io/thuvienhatgiong/cuoc-song-nay-co-phai-la-1-tro-choi-cua-su-ton-tai-tat-ca-cac-phuong-phap-tu-hanh-chi-nham-thuc-tinh-tam-linh-nhan-ra-tro-choi-vo-cung-cua-cuoc-song-nay-u-nghia-that-su-dang-sau-tro-choi-su-song-nay-la-gi/</id>
         <media:content url="https://kieumanh.github.io/thuvienhatgiong/media/posts/2/Ban-khong-he-don-doc-tren-hanh-trinh-nay.jpg" medium="image" />
             <category term="Ý nghĩa sự sống"/>
 
@@ -153,8 +153,8 @@
         <author>
             <name>Mạnh</name>
         </author>
-        <link href="https://kieumanh.github.io/thuvienhatgiong/lam-the-nao-de-tao-noi-dung-video-youtube-hap-dan-voi-nguon-luc-han-che.html"/>
-        <id>https://kieumanh.github.io/thuvienhatgiong/lam-the-nao-de-tao-noi-dung-video-youtube-hap-dan-voi-nguon-luc-han-che.html</id>
+        <link href="https://kieumanh.github.io/thuvienhatgiong/lam-the-nao-de-tao-noi-dung-video-youtube-hap-dan-voi-nguon-luc-han-che/"/>
+        <id>https://kieumanh.github.io/thuvienhatgiong/lam-the-nao-de-tao-noi-dung-video-youtube-hap-dan-voi-nguon-luc-han-che/</id>
         <media:content url="https://kieumanh.github.io/thuvienhatgiong/media/posts/1/demo-video.jpg" medium="image" />
             <category term="Youtube"/>
 

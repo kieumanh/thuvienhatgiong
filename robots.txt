@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://kieumanh.github.io/thuvienhatgiong/sitemap.xml
+Disallow: /
